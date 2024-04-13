@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "787625290270",
+    "project_id": "controlgastofire",
+    "storage_bucket": "controlgastofire.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:787625290270:android:2855a9884d826be5495c0f",
+        "android_client_info": {
+          "package_name": "com.example.control_gastos"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDaL_5lW-Qff2tE0EeNbrUT_Nt_4-EEYxE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
